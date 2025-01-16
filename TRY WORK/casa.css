@@ -1,0 +1,10 @@
+body{
+    background-image: url(FEA-ORPHANAGE-7.jpg);
+    backdrop-filter: blur;
+}
+
+h1{
+    font-size: medium;
+    font-weight: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
